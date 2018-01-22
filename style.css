@@ -1,0 +1,48 @@
+body{
+				background-color:gray;
+			}
+			.main-layout{
+				text-align:center;
+				font-family:Courier New,san-serif;
+				font-size:35px;
+				border-style:double;
+				border-width:3px;
+				padding:10px 20px 10px 20px;
+				margin: 10px 20px 10px 30px;
+				
+			}
+			.img-responsive{
+				max-width:100%;
+				padding:20px 30px 20px 30px
+			}
+			.menu-layout{
+				border-top-style:solid;
+				border-top-width:5px;
+				border-bottom-style:solid;
+				border-bottom-width:3px;
+				padding:20px 30px 20px 30px;
+				margin:20px 120px 20px 120px;
+			}
+				
+			a:link {
+				text-decoration: none;
+				padding:5px 15px 5px 15px;
+				
+				
+			}
+
+			a:visited {	
+				text-decoration: none;
+				padding:5px 15px 5px 15px;
+			}
+
+			a:hover {
+				text-decoration: underline;
+				font-size:40px;
+				padding:5px 15px 5px 15px;
+			}
+
+			a:active {	
+				text-decoration: underline;
+				padding:5px 15px 5px 15px;
+			}
